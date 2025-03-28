@@ -1,0 +1,22 @@
+# Insights from analysis
+
+1. About 90% people take cash loans.
+2. Default rate for cash loans(9%) is about 60% higher than that for revolving loans(5.6%).
+3. Female customers take more loans than male(62.3% vs 37.6%). They also have lower default rate than male(7.5% vs 10.4%).
+4. Over 80% of the customers were unaccompanied while applying for loans and have a default rate of 8.7%.
+5. 60% of the customers have working income type with and have a default rate of 9.5%.
+6. Customers on maternity leave have a very high default rate (40%) though they constitute less than 1% of total loans.
+7. Higher default rate among customers with lower secondary education(13.7%) followed by secondary education(9.8%) which makes up over 60% of total loans.
+8. Customers with an academic degree have a very low default rate(2.1%) and those with higher educations accounting for 25% of total loans also have low default rate(5.5%)
+9. Married customers account for more than 80% of loans and have an average default rate.
+10. Default rate above 10 for unmarried/single and civil marriage customers.
+11. Customers living in rented apartments or with parents having higher default rate  but account for less than 10% of total loans.
+12. More than 80% of customers live in house/apartment.
+13. Low skilled labourers have 15% default rate.
+15. High default rates among cleaning, cooking staff, drivers, labourers, security staff and waiters.
+16. Business entity type 3 organizations make up more than 25% of total loans followed by self-employed with 15%.
+17. Organizations such as agriculture, business entities, cleaning, construction, realtor, restaurant, self-employed, transport entities and some industries show high default rates.
+18. Default rate of transport type 3 organization is higher than others at 15.7%.
+19. 84% of the non-defaulters have a income range of 50K-250K.
+20. 88% of the defaulters have a income range of 50K-250K.
+21. As income increases customers are less likely to default.
